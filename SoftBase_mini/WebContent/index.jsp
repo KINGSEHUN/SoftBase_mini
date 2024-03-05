@@ -19,5 +19,6 @@
 =======
 	 ㅅㄷㄴㅅrksksefmqwkmfqekgmqeg
 >>>>>>> branch 'main' of https://github.com/KINGSEHUN/SoftBase_mini.git
+ddddd
 </body>
 </html>
