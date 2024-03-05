@@ -13,12 +13,6 @@
 	2.태영
 	3.세훈
 	ㅂㅈㅇㅂㅈㅇㅂㅇㅈㅇㅂㅇㅂㅈㅇㅈㅂㅇㅇ
-<<<<<<< HEAD
-	 ㅅㄷㄴㅅ
-	 ddgdfgdsfddas
-=======
-	 ㅅㄷㄴㅅrksksefmqwkmfqekgmqeg
->>>>>>> branch 'main' of https://github.com/KINGSEHUN/SoftBase_mini.git
-ddddd
+	ㄷㄴ
 </body>
 </html>
